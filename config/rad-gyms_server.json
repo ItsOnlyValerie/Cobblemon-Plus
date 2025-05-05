@@ -1,0 +1,8 @@
+{
+    "debug": false,
+    "maxEntranceUses": 3,
+    "ignoredSpecies": [],
+    "ignoredForms": [
+        "gmax"
+    ]
+}

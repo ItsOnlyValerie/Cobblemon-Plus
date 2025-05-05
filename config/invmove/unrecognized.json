@@ -1,0 +1,25 @@
+{
+  "allowMovement": {
+    "red.jackf.chesttracker.impl.gui.screen.ChestTrackerScreen": true,
+    "org.anti_ad.mc.ipnext.gui.GUIDEEditorScreen": true,
+    "dev.emi.emi.screen.RecipeScreen": true,
+    "com.cobblemon.mod.common.client.gui.summary.Summary": true,
+    "com.cobblemon.mod.common.client.gui.battle.BattleGUI": true,
+    "journeymap.client.ui.fullscreen.Fullscreen": true,
+    "journeymap.client.ui.component.screens.ScrollPaneScreen": true,
+    "dev.emi.emi.screen.BoMScreen": true,
+    "journeymap.client.ui.fullscreen.menu.FullScreenPopupMenu": true,
+    "fr.harmex.cobbledollars.common.client.gui.screen.ShopScreen": true,
+    "net.Pandarix.screen.IdentifyingScreen": true,
+    "com.cobblemon.mod.common.client.gui.pc.PCGUI": true,
+    "betteradvancements.common.gui.BetterAdvancementsScreen": true
+  },
+  "hideBackground": {
+    "red.jackf.chesttracker.impl.gui.screen.ChestTrackerScreen": true,
+    "dev.emi.emi.screen.RecipeScreen": true,
+    "com.cobblemon.mod.common.client.gui.summary.Summary": true,
+    "fr.harmex.cobbledollars.common.client.gui.screen.ShopScreen": true,
+    "net.Pandarix.screen.IdentifyingScreen": true,
+    "com.cobblemon.mod.common.client.gui.pc.PCGUI": true
+  }
+}
