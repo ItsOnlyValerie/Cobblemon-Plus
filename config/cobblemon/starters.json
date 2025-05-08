@@ -1,0 +1,96 @@
+{
+  "allowStarterOnJoin": true,
+  "promptStarterOnceOnly": true,
+  "starters": [
+    {
+      "name": "Kanto",
+      "displayName": "cobblemon.starterselection.category.kanto",
+      "pokemon": [
+        "Bulbasaur level=10 hp_iv=15 attack_iv=15 defence_iv=15 special_attack_iv=15 special_defence_iv=15 speed_iv=15",
+        "Charmander level=10 hp_iv=15 attack_iv=15 defence_iv=15 special_attack_iv=15 special_defence_iv=15 speed_iv=15",
+        "Squirtle level=10 hp_iv=15 attack_iv=15 defence_iv=15 special_attack_iv=15 special_defence_iv=15 speed_iv=15"
+      ]
+    },
+    {
+      "name": "Johto",
+      "displayName": "cobblemon.starterselection.category.johto",
+      "pokemon": [
+        "Chikorita level=10 hp_iv=15 attack_iv=15 defence_iv=15 special_attack_iv=15 special_defence_iv=15 speed_iv=15",
+        "Cyndaquil level=10 hp_iv=15 attack_iv=15 defence_iv=15 special_attack_iv=15 special_defence_iv=15 speed_iv=15",
+        "Totodile level=10 hp_iv=15 attack_iv=15 defence_iv=15 special_attack_iv=15 special_defence_iv=15 speed_iv=15"
+      ]
+    },
+    {
+      "name": "Hoenn",
+      "displayName": "cobblemon.starterselection.category.hoenn",
+      "pokemon": [
+        "Treecko level=10 hp_iv=15 attack_iv=15 defence_iv=15 special_attack_iv=15 special_defence_iv=15 speed_iv=15",
+        "Torchic level=10 hp_iv=15 attack_iv=15 defence_iv=15 special_attack_iv=15 special_defence_iv=15 speed_iv=15",
+        "Mudkip level=10 hp_iv=15 attack_iv=15 defence_iv=15 special_attack_iv=15 special_defence_iv=15 speed_iv=15"
+      ]
+    },
+    {
+      "name": "Sinnoh",
+      "displayName": "cobblemon.starterselection.category.sinnoh",
+      "pokemon": [
+        "Turtwig level=10 hp_iv=15 attack_iv=15 defence_iv=15 special_attack_iv=15 special_defence_iv=15 speed_iv=15",
+        "Chimchar level=10 hp_iv=15 attack_iv=15 defence_iv=15 special_attack_iv=15 special_defence_iv=15 speed_iv=15",
+        "Piplup level=10 hp_iv=15 attack_iv=15 defence_iv=15 special_attack_iv=15 special_defence_iv=15 speed_iv=15"
+      ]
+    },
+    {
+      "name": "Unova",
+      "displayName": "cobblemon.starterselection.category.unova",
+      "pokemon": [
+        "Snivy level=10 hp_iv=15 attack_iv=15 defence_iv=15 special_attack_iv=15 special_defence_iv=15 speed_iv=15",
+        "Tepig level=10 hp_iv=15 attack_iv=15 defence_iv=15 special_attack_iv=15 special_defence_iv=15 speed_iv=15",
+        "Oshawott level=10 hp_iv=15 attack_iv=15 defence_iv=15 special_attack_iv=15 special_defence_iv=15 speed_iv=15"
+      ]
+    },
+    {
+      "name": "Kalos",
+      "displayName": "cobblemon.starterselection.category.kalos",
+      "pokemon": [
+        "Chespin level=10 hp_iv=15 attack_iv=15 defence_iv=15 special_attack_iv=15 special_defence_iv=15 speed_iv=15",
+        "Fennekin level=10 hp_iv=15 attack_iv=15 defence_iv=15 special_attack_iv=15 special_defence_iv=15 speed_iv=15",
+        "Froakie level=10 hp_iv=15 attack_iv=15 defence_iv=15 special_attack_iv=15 special_defence_iv=15 speed_iv=15"
+      ]
+    },
+    {
+      "name": "Alola",
+      "displayName": "cobblemon.starterselection.category.alola",
+      "pokemon": [
+        "Rowlet level=10 hp_iv=15 attack_iv=15 defence_iv=15 special_attack_iv=15 special_defence_iv=15 speed_iv=15",
+        "Litten level=10 hp_iv=15 attack_iv=15 defence_iv=15 special_attack_iv=15 special_defence_iv=15 speed_iv=15",
+        "Popplio level=10 hp_iv=15 attack_iv=15 defence_iv=15 special_attack_iv=15 special_defence_iv=15 speed_iv=15"
+      ]
+    },
+    {
+      "name": "Galar",
+      "displayName": "cobblemon.starterselection.category.galar",
+      "pokemon": [
+        "Grookey level=10 hp_iv=15 attack_iv=15 defence_iv=15 special_attack_iv=15 special_defence_iv=15 speed_iv=15",
+        "Scorbunny level=10 hp_iv=15 attack_iv=15 defence_iv=15 special_attack_iv=15 special_defence_iv=15 speed_iv=15",
+        "Sobble level=10 hp_iv=15 attack_iv=15 defence_iv=15 special_attack_iv=15 special_defence_iv=15 speed_iv=15"
+      ]
+    },
+    {
+      "name": "Hisui Bias",
+      "displayName": "cobblemon.starterselection.category.hisui_bias",
+      "pokemon": [
+        "Rowlet region_bias=hisui level=10 pokeball=ancient_poke_ball hp_iv=15 attack_iv=15 defence_iv=15 special_attack_iv=15 special_defence_iv=15 speed_iv=15",
+        "Cyndaquil region_bias=hisui level=10 pokeball=ancient_poke_ball hp_iv=15 attack_iv=15 defence_iv=15 special_attack_iv=15 special_defence_iv=15 speed_iv=15",
+        "Oshawott region_bias=hisui level=10 pokeball=ancient_poke_ball hp_iv=15 attack_iv=15 defence_iv=15 special_attack_iv=15 special_defence_iv=15 speed_iv=15"
+      ]
+    },
+    {
+      "name": "Paldea",
+      "displayName": "cobblemon.starterselection.category.paldea",
+      "pokemon": [
+        "Sprigatito level=10 hp_iv=15 attack_iv=15 defence_iv=15 special_attack_iv=15 special_defence_iv=15 speed_iv=15",
+        "Fuecoco level=10 hp_iv=15 attack_iv=15 defence_iv=15 special_attack_iv=15 special_defence_iv=15 speed_iv=15",
+        "Quaxly level=10 hp_iv=15 attack_iv=15 defence_iv=15 special_attack_iv=15 special_defence_iv=15 speed_iv=15"
+      ]
+    }
+  ]
+}
