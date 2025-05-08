@@ -40,5 +40,113 @@
                 "top": 250
             }
         }
+    },
+    "io.wispforest.accessories.client.gui.AccessoriesScreen": {
+        "buttonHints": {
+            "MOVE_TO_CONTAINER": {
+                "horizontalOffset": -18,
+                "bottom": -2
+            },
+            "MOVE_TO_PLAYER": {
+                "horizontalOffset": -18,
+                "top": 35
+            },
+            "SORT": {
+                "horizontalOffset": -54,
+                "top": 2
+            },
+            "SORT_COLUMNS": {
+                "horizontalOffset": -42,
+                "top": 13
+            },
+            "SORT_ROWS": {
+                "horizontalOffset": -30,
+                "top": 24
+            },
+            "SHOW_EDITOR": {
+                "horizontalOffset": 369,
+                "top": 165
+            },
+            "SETTINGS": {
+                "horizontalOffset": 358,
+                "top": 150
+            }
+        }
+    },
+    "net.minecraft.class_492": {
+        "buttonHints": {
+            "SHOW_EDITOR": {
+                "horizontalOffset": 609,
+                "top": 193
+            },
+            "SETTINGS": {
+                "horizontalOffset": 609,
+                "top": 189
+            },
+            "VILLAGER_DO_GLOBAL_TRADES": {
+                "top": 3
+            },
+            "VILLAGER_DO_LOCAL_TRADES": {
+                "top": 2
+            }
+        }
+    },
+    "fr.harmex.cobbledollars.common.client.gui.screen.ShopScreen": {
+        "buttonHints": {
+            "MOVE_TO_CONTAINER": {
+                "bottom": -91
+            },
+            "MOVE_TO_PLAYER": {
+                "top": -16
+            },
+            "SORT": {
+                "horizontalOffset": -3,
+                "top": -16
+            },
+            "SORT_COLUMNS": {
+                "horizontalOffset": -2,
+                "top": -16
+            },
+            "SORT_ROWS": {
+                "horizontalOffset": -1,
+                "top": -16
+            },
+            "SETTINGS": {
+                "horizontalOffset": 332,
+                "top": 326
+            },
+            "SHOW_EDITOR": {
+                "horizontalOffset": 332,
+                "top": 330
+            }
+        }
+    },
+    "net.Pandarix.screen.IdentifyingScreen": {
+        "buttonHints": {
+            "MOVE_TO_CONTAINER": {
+                "horizontalOffset": -18,
+                "bottom": -15
+            },
+            "MOVE_TO_PLAYER": {
+                "horizontalOffset": -18
+            },
+            "SORT": {
+                "horizontalOffset": -20
+            },
+            "SORT_COLUMNS": {
+                "horizontalOffset": -19
+            },
+            "SORT_ROWS": {
+                "horizontalOffset": -18
+            },
+            "SHOW_EDITOR": {
+                "horizontalOffset": 371,
+                "top": 322
+            },
+            "SETTINGS": {
+                "horizontalOffset": 371,
+                "top": 318
+            }
+        }
     }
 }

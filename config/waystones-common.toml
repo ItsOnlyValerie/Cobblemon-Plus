@@ -57,10 +57,10 @@ inventoryButtonY = 60
 [teleports]
 
 # Set to false to simply disable all cooldowns. See warpRequirements for more fine-grained control.
-enableCooldowns = true
+enableCooldowns = false
 
 # Set to false to simply disable all xp costs. See warpRequirements for more fine-grained control.
-enableCosts = true
+enableCosts = false
 
 # List of entities that cannot be teleported, either as pet, leashed, or on warp plates.
 entityDenyList = [ "minecraft:wither" ]
@@ -69,7 +69,7 @@ entityDenyList = [ "minecraft:wither" ]
 transportLeashed = "ENABLED"
 
 # Set to ENABLED to have nearby pets teleport with you. Set to SAME_DIMENSION to have nearby pets teleport with you only if you're not changing dimensions. Set to DISABLED to disable.
-transportPets = "DISABLED"
+transportPets = "ENABLED"
 
 # List of warp requirements with comma-separated parameters in parentheses. Conditions can be defined as comma-separated list in square brackets. Will be applied in order.
 warpRequirements = [ 
@@ -79,7 +79,11 @@ warpRequirements = [
     "[target_is_global] multiply_xp_cost(0)", 
     "min_xp_cost(0)", 
     "max_xp_cost(27)", 
-    "[source_is_inventory_button] add_cooldown(inventory_button, 300)"
+    "[source_is_inventory_button] add_cooldown(inventory_button, 300)", 
+    "", 
+    "", 
+    "", 
+    ""
 ]
 
 [worldGen]
@@ -103,7 +107,7 @@ spawnInVillages = "REGULAR"
 wildWaystoneStyle = "BIOME"
 
 # List of dimensions that wild waystones are allowed to spawn in. If left empty, all dimensions except those in wildWaystonesDimensionDenyList are used.
-wildWaystonesDimensionAllowList = [ "minecraft:the_end", "minecraft:overworld", "minecraft:the_nether" ]
+wildWaystonesDimensionAllowList = [ "minecraft:the_nether", "minecraft:overworld", "minecraft:the_end" ]
 
 # List of dimensions that wild waystones are not allowed to spawn in. Only used if wildWaystonesDimensionAllowList is empty.
 wildWaystonesDimensionDenyList = [  ]

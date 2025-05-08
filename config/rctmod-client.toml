@@ -1,16 +1,16 @@
 [Trainers]
 	#━━━━━━━━━━
 	#Determines if symbols for trainer types are shown next to trainer names.
-	showTrainerTypeSymbols = false
+	showTrainerTypeSymbols = true
 	#━━━━━━━━━━
 	#Determines if trainer names are colored based of their type.
-	showTrainerTypeColors = true
+	showTrainerTypeColors = false
 
 ["Trainer Card"]
 	#━━━━━━━━━━
 	#Padding of the trainer card gui.
 	#Range: 0 ~ 2147483646
-	trainerCardPadding = 8
+	trainerCardPadding = 10
 	#━━━━━━━━━━
 	#Horizontal alignment of the trainer card gui, i.e. 0=left, 0.5=center, 1=right.
 	#Range: 0.0 ~ 1.0

@@ -93,7 +93,13 @@ blockRaycastTimeout = 0
 [blockProviderOverrides]
 	"minecraft:crafting_table" = "inventory_tabs:block_unique"
 	"#minecraft:doors" = ""
+	"cobblemon:cheri_berry" = ""
 	"minecraft:fletching_table" = ""
+	"pokeblocks:*" = ""
+	"cobblemon:chesto_berry" = ""
+	"cobblemon:oran_berry" = ""
+	"cobblemon:healing_machine" = ""
+	"cobblemon:pecha_berry" = ""
 
 # 
 # -------------------------------

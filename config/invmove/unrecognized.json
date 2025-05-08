@@ -12,7 +12,19 @@
     "fr.harmex.cobbledollars.common.client.gui.screen.ShopScreen": true,
     "net.Pandarix.screen.IdentifyingScreen": true,
     "com.cobblemon.mod.common.client.gui.pc.PCGUI": true,
-    "betteradvancements.common.gui.BetterAdvancementsScreen": true
+    "betteradvancements.common.gui.BetterAdvancementsScreen": true,
+    "com.cobblemon.mod.common.client.gui.interact.wheel.InteractWheelGUI": true,
+    "io.wispforest.accessories.client.gui.AccessoriesScreen": true,
+    "net.blay09.mods.waystones.client.gui.screen.WaystoneSelectionScreen": true,
+    "com.cobblemon.mod.common.client.gui.pokedex.PokedexGUI": true,
+    "com.gitlab.srcmc.rctmod.client.screens.TrainerCardScreen": true,
+    "net.p3pp3rf1y.sophisticatedbackpacks.client.gui.BackpackScreen": true,
+    "com.cobblemon.mod.common.client.gui.interact.partyselect.PartySelectGUI": true,
+    "vectorwing.farmersdelight.client.gui.CookingPotScreen": true,
+    "lol.gito.radgyms.gui.GymEntranceScreen": true,
+    "net.p3pp3rf1y.sophisticatedbackpacks.client.gui.BackpackSettingsScreen": true,
+    "fr.harmex.cobbledollars.common.client.gui.screen.BankScreen": true,
+    "com.chaosthedude.naturescompass.gui.NaturesCompassScreen": true
   },
   "hideBackground": {
     "red.jackf.chesttracker.impl.gui.screen.ChestTrackerScreen": true,
@@ -20,6 +32,16 @@
     "com.cobblemon.mod.common.client.gui.summary.Summary": true,
     "fr.harmex.cobbledollars.common.client.gui.screen.ShopScreen": true,
     "net.Pandarix.screen.IdentifyingScreen": true,
-    "com.cobblemon.mod.common.client.gui.pc.PCGUI": true
+    "com.cobblemon.mod.common.client.gui.pc.PCGUI": true,
+    "com.cobblemon.mod.common.client.gui.interact.wheel.InteractWheelGUI": true,
+    "io.wispforest.accessories.client.gui.AccessoriesScreen": true,
+    "net.blay09.mods.waystones.client.gui.screen.WaystoneSelectionScreen": true,
+    "com.cobblemon.mod.common.client.gui.pokedex.PokedexGUI": true,
+    "com.gitlab.srcmc.rctmod.client.screens.TrainerCardScreen": true,
+    "net.p3pp3rf1y.sophisticatedbackpacks.client.gui.BackpackScreen": true,
+    "com.cobblemon.mod.common.client.gui.interact.partyselect.PartySelectGUI": true,
+    "vectorwing.farmersdelight.client.gui.CookingPotScreen": true,
+    "net.p3pp3rf1y.sophisticatedbackpacks.client.gui.BackpackSettingsScreen": true,
+    "fr.harmex.cobbledollars.common.client.gui.screen.BankScreen": true
   }
 }
